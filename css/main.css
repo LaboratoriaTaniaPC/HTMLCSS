@@ -1,0 +1,63 @@
+/* Inserta tu CSS aqui */
+ .campo {
+		 	
+		 	height: 400px; 
+		 	width:  700px;  
+		 	background-color: #00FF80;
+		 	position: absolute;
+
+	}
+
+
+.cancha {
+
+			height: 375px;
+		 	width:  675px;
+		 	background-color: #298A08;
+		 	top: 12px;
+		 	bottom: 12px;
+		 	right: 12px;
+		 	left: 12px;
+		 	position: relative;
+		 	border-style: 2px solid white;
+       
+}
+
+.porteria1 {
+
+           height: 200px;
+		   width:  100px;
+		   position: relative;
+		   border: 1px solid white;
+		   top: 85px;
+}
+
+.porteria2 {
+
+           height: 200px;
+		   width:  100px;
+		   position: relative;
+		   border: 1px solid white;
+		   bottom: 200px;
+		   left: 575px;
+}
+
+
+.circulo {
+           
+		   width:  100px;
+		   height: 100px;
+		   border-radius: 120px;
+		   position: relative;
+		   border: 1px solid white;
+		   left: 275px;
+		   bottom: 60px;
+}
+
+.bolita {
+
+	bottom: 100px;
+	right:  50px;
+	left:   70px;
+	top:    90px;
+}
